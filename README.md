@@ -1,1 +1,1 @@
-Added the directional node logic
+Logic Circles
